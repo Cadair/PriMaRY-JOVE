@@ -1,4 +1,3 @@
-
 Visit: http://www.jupiterradio.com
 
 Run with:
@@ -15,3 +14,8 @@ Compile with:
 
 
 SPD2FITS (C) 2004-5 jupiterradio.com
+
+
+NOTE:
+
+This no longer appears to be located at it's original download page. I have no idea what licence this was released under however all the source is available here, credits to original author.
