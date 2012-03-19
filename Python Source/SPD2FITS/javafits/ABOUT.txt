@@ -1,0 +1,4 @@
+
+JavaFits v0.97a
+http://heasarc.gsfc.nasa.gov/docs/heasarc/fits/java/v0.9/
+
